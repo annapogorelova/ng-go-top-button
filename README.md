@@ -13,7 +13,7 @@ npm install ng-go-top-button --save
 ## Usage
 Import statement in the app module:
 ```typescript
-import {GoTopButtonModule} from 'ng2-go-top-button';
+import {GoTopButtonModule} from 'ng-go-top-button';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 ...
@@ -96,7 +96,7 @@ import 'web-animations-js';
 
 ## Example project
 
-You can find example project that uses `ng2-go-top-button` in `projects/example-app/` directory of this repository. To run the example project execute the following commands from the root directory of the project:
+You can find example project that uses `ng-go-top-button` in `projects/example-app/` directory of this repository. To run the example project execute the following commands from the root directory of the project:
 
 ```
 ng build --project=example-app
