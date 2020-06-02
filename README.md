@@ -1,5 +1,5 @@
 # ng-go-top-button
-A simple customizable go-top button component for Angular projects
+A simple customizable go-top button component for Angular projects.
 
 ## Versions
 

@@ -1,6 +1,29 @@
 {
   "name": "ng-go-top-button",
-  "version": "9.0.0-alpha.0",
+  "description": "A simple customizable go-top button component for Angular projects.",
+  "author": {
+    "email": "anya.pogorelova@gmail.com",
+    "name": "Anna Pohorielova"
+  },
+  "contributors": [
+    {
+      "name": "Anna Pohorielova",
+      "email": "anya.pogorelova@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annapogorelova/ng2-go-top-button.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "ng",
+    "go",
+    "top",
+    "button"
+  ],
+  "version": "9.0.0",
   "peerDependencies": {
     "@angular/common": "^9.1.9",
     "@angular/core": "^9.1.9",
