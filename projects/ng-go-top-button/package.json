@@ -1,6 +1,6 @@
 {
   "name": "ng-go-top-button",
-  "version": "9.0.1",
+  "version": "10.0.0",
   "description": "A simple customizable go-top button component for Angular projects.",
   "author": {
     "email": "anya.pogorelova@gmail.com",
@@ -25,12 +25,12 @@
     "button"
   ],
   "peerDependencies": {
-    "@angular/common": "^9.1.9",
-    "@angular/core": "^9.1.9",
-    "@angular/animations": "^9.1.9",
-    "@angular/platform-browser": "^9.1.9"
+    "@angular/common": "^10.2.1",
+    "@angular/core": "^10.2.1",
+    "@angular/animations": "^10.2.1",
+    "@angular/platform-browser": "^10.2.1"
   },
   "dependencies": {
-    "tslib": "^1.10.0"
+    "tslib": "^2.0.0"
   }
 }
